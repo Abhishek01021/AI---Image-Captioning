@@ -1,6 +1,7 @@
 # 🖼️ AI Image Captioning with BLIP + Gradio
 
-This project demonstrates how to build an AI-powered image captioning tool using the [BLIP (Bootstrapping Language-Image Pretraining)](httpshuggingface.coSalesforceblip-image-captioning-large) model from Hugging Face and a simple web interface powered by [Gradio](httpsgradio.app).
+This project demonstrates how to build an AI-powered image captioning tool using the BLIP(Bootstrapping Language-Image Pretraining).
+(httpshuggingface.coSalesforceblip-image-captioning-large) model from Hugging Face and a simple web interface powered by Gradio.
 
 Users can upload an image, and the app will generate a descriptive caption automatically.
 
